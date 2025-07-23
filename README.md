@@ -60,7 +60,7 @@ streamlit run app.py
 ## 🙋‍♂️ Autor
 
 Feito por **Wellington Miguel**  
-🔗 [https://github.com/seu-usuario](https://github.com/Wellington-Miguel/format-CPF)
+🔗 [GitHub](https://github.com/Wellington-Miguel/format-CPF)
 
 
 ---
